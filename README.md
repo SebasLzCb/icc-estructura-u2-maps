@@ -155,3 +155,7 @@ Para administrar un directorio telefónico sin claves duplicadas y ordenado por 
 Salida en Terminal
 
 ![alt text](image.png)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 549250057425c80dbcc274c56e427d9aeb786e92
